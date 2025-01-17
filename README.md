@@ -48,4 +48,5 @@ I learned from youtube videos. I watched and completed some playlists of some pr
 ## Author
 
 - Frontend Mentor - [@methane-js](https://www.frontendmentor.io/profile/methane-js)
+- Instagram - [@methane.py](https://www.instagram.com/methane.py/)
 
